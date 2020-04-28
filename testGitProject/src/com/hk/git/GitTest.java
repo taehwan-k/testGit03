@@ -7,7 +7,13 @@ public class GitTest {
 		System.out.println("윤호작업호호호");
 		System.out.println("태환작업호호호");
 		System.out.println("ffff");
+
 		System.out.println("fffㅎㅇㅎㄹㅇㅎf");
 		System.out.println("태환이가 수정 후 커밋안함");
+
+		System.out.println("fffㅎㅇㅎㄹㅇㅎf");
+		System.out.println("ㅎㅇㅎㅇ");
+
+		System.out.println("ㅎㅎㅎㅎㅎㅎㅎ");
 	}
 }
