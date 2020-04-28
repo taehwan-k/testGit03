@@ -6,31 +6,7 @@ public class GitTest {
 
 
 		System.out.println("ㅎㅎㅎㅎㅎㅎㅎ");
-
-
 		System.out.println("ㅎㅎㅎㅎㅎㅎㅎ");
 
-
-		System.out.println("ㅎㅎㅎㅎㅎㅎㅎ");
-
-
-		System.out.println("ㅎㅎㅎㅎㅎㅎㅎ");
-
-
-		System.out.println("ㅎㅎㅎㅎㅎㅎㅎ");
-
-
-		System.out.println("ㅎㅎㅎㅎㅎㅎㅎ");
-
-
-		System.out.println("ㅎㅎㅎㅎㅎㅎㅎ");
-		
-		System.out.println("안녕?");
-		System.out.println("안녕?");
-		System.out.println("안녕?");
-		System.out.println("안녕?");
-		System.out.println("안녕?");
-		System.out.println("안녕?");
-		System.out.println("안녕?");
 	}
 }
