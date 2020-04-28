@@ -9,5 +9,8 @@ public class GitTest {
 		System.out.println("ffff");
 		System.out.println("fffㅎㅇㅎㄹㅇㅎf");
 		System.out.println("ㅎㅇㅎㅇ");
+		System.out.println("ㅎㅇㅎㅇ");
+		System.out.println("ㅎㅇㅎㅇ");
+		System.out.println("ㅎㅇㅎㅇ");
 	}
 }
